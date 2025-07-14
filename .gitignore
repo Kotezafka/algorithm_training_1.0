@@ -1,0 +1,27 @@
+.DS_Store
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv
+test_venv
+test_venv2
+
+.vscode
+
+.git
+logs
+db
+.idea
+__pycache__
+chats
+.gigaide
+
+
